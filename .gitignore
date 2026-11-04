@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+eth_breakout_bot.log
+*.log
